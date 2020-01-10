@@ -1,0 +1,120 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color:#FE3C72;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+h1{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ununtu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:"Montserrat-light";
+}
+/* title image */
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 25%;
+  top: 14%;
+}
+/* features */
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.feature{
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
+.feature-des{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+/* testimonial */
+#testimonials{
+background: #ef8172;
+text-align: center;
+color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+  background: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+
+  width: 15%;
+  margin: 0 3.69em;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding:3% 2%;
+}
+#cta{
+  background: #ff4c68;
+  text-align: center;
+  padding-bottom: 4%;
+}
+h3{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  padding: 7% 5%;
+}
+.last{
+    color: white;
+    line-height: 1.5;
+}
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+.foot{
+  padding: 2%;
+}
